@@ -1,15 +1,11 @@
-<!-- Banner animado con texto -->
+<!-- Animación SVG con texto -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Steeven+David;Apasionado+por+el+Desarrollo+Web;Con+ASP.NET%2C+Angular+y+m%C3%A1s" alt="Typing SVG" />
 </p>
 
-<!-- Foto de perfil (reemplaza el enlace con el tuyo si deseas) -->
+<!-- Foto de perfil (puedes reemplazar con la tuya si subes una a GitHub) -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150" alt="Steeven Avatar" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="500" alt="Gráfico animado de tecnologías" />
 </p>
 
 <h1 align="center">👨‍💻 Steeven David Arevalo Llerena</h1>
@@ -38,8 +34,20 @@
 ## 📚 Actualmente aprendiendo
 
 - Integración de APIs REST
-- Mejores prácticas de seguridad en .NET
-- Performance en frontend
+- Seguridad en .NET
+- Mejores prácticas frontend
+
+## 📊 Lenguajes más usados en mis repos
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pive51&layout=compact&theme=tokyonight" />
+</p>
+
+## 📈 Estadísticas de GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pive51&show_icons=true&theme=tokyonight" />
+</p>
 
 ## 📫 Contáctame
 
@@ -47,12 +55,6 @@
 - 📸 Instagram: [pive_arevalo5](https://www.instagram.com/pive_arevalo5/?theme=dark)
 - 👤 Facebook: [tiveareva10](https://www.facebook.com/tiveareva10)
 
-## 📈 Mis estadísticas en GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pive51&show_icons=true&theme=tokyonight" />
-</p>
-
 ---
 
-<p align="center">Gracias por visitar mi perfil 🙌 ¡Vamos por más!</p>
+<p align="center">¡Gracias por visitar mi perfil! 🙌</p>

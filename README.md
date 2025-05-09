@@ -8,6 +8,10 @@
   <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150" alt="Steeven Avatar" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="500" alt="Gráfico animado de tecnologías" />
+</p>
+
 <h1 align="center">👨‍💻 Steeven David Arevalo Llerena</h1>
 
 <p align="center">

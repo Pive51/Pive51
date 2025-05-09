@@ -37,6 +37,14 @@
 - Seguridad en .NET
 - Mejores prácticas frontend
 
+## 💸 Lenguajes más pagados en 2024
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/github-readme-content/main/languages-salary-animated.svg" width="700" alt="Lenguajes más pagados 2024" />
+</p>
+
+---
+
 ## 📊 Lenguajes más usados en mis repos
 
 <p align="left">

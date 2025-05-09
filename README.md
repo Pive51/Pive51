@@ -47,8 +47,8 @@
 
 ## 📊 Lenguajes más usados en mis repos
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pive51&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pive51/pive51/main/techs-used.svg" width="700" alt="Lenguajes más usados" />
 </p>
 
 ## 📈 Estadísticas de GitHub

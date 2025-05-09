@@ -19,7 +19,7 @@
 
 ## 🚀 Tecnologías e intereses
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -33,9 +33,19 @@
 
 ## 📚 Actualmente aprendiendo
 
-- Integración de APIs REST
-- Seguridad en .NET
-- Mejores prácticas frontend
+<p align="center">
+  - Integración de APIs REST<br>
+  - Seguridad en .NET<br>
+  - Mejores prácticas frontend
+</p>
+
+---
+
+## 💸 Lenguajes más pagados en 2024
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/github-readme-content/main/languages-salary-animated.svg" width="700" alt="Lenguajes más pagados 2024" />
+</p>
 
 ---
 
@@ -47,15 +57,19 @@
 
 ## 📈 Estadísticas de GitHub
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pive51&show_icons=true&theme=tokyonight" />
 </p>
 
+---
+
 ## 📫 Contáctame
 
-- 📧 Correo: [starevalo51@gamil.com](mailto:starevalo51@gamil.com)
-- 📸 Instagram: [pive_arevalo5](https://www.instagram.com/pive_arevalo5/?theme=dark)
-- 👤 Facebook: [tiveareva10](https://www.facebook.com/tiveareva10)
+<p align="center">
+  📧 Correo: [starevalo51@gamil.com](mailto:starevalo51@gamil.com)<br>
+  📸 Instagram: [pive_arevalo5](https://www.instagram.com/pive_arevalo5/?theme=dark)<br>
+  👤 Facebook: [tiveareva10](https://www.facebook.com/tiveareva10)
+</p>
 
 ---
 

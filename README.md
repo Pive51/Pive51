@@ -44,7 +44,7 @@
 ## 💸 Lenguajes más pagados en 2024
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/github-readme-content/main/languages-salary-animated.svg" width="700" alt="Lenguajes más pagados 2024" />
+  <img src="https://github.com/denvercoder1/github-readme-streak-stats/blob/master/images/languages-salary.svg?raw=true" width="700" alt="Lenguajes más pagados 2024" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ## 📊 Lenguajes más usados en mis repos
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pive51/pive51/main/techs-used.svg" width="700" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pive51&layout=compact&theme=tokyonight" alt="Lenguajes más usados en mis repos" />
 </p>
 
 ## 📈 Estadísticas de GitHub

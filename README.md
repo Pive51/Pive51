@@ -1,14 +1,18 @@
-<!-- Imagen de presentación -->
+<!-- Banner animado con texto -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Steeven+David;Apasionado+por+el+Desarrollo+Web;Con+ASP.NET%2C+Angular+y+m%C3%A1s" alt="Typing SVG" />
+</p>
+
+<!-- Foto de perfil (reemplaza el enlace con el tuyo si deseas) -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150" alt="Steeven Avatar" />
 </p>
 
-<h1 align="center">¡Hola! 👋 Soy Steeven David Arevalo Llerena</h1>
+<h1 align="center">👨‍💻 Steeven David Arevalo Llerena</h1>
 
 <p align="center">
-  🎓 Estudiante de <strong>Ingeniería en Tecnologías de la Información</strong><br>
-  en la <strong>Universidad Técnica de Ambato (UTA)</strong><br>
-  💻 Apasionado por el desarrollo web, ASP.NET, MVC y frontend moderno
+  🎓 Estudiante de <strong>Ingeniería en Tecnologías de la Información</strong> en la <strong>Universidad Técnica de Ambato (UTA)</strong><br>
+  💻 Apasionado por el desarrollo web, arquitectura por capas y frontend moderno
 </p>
 
 ---
@@ -23,15 +27,15 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-- Desarrollo web por capas y n-capas con buenas prácticas.
-- Frontend moderno con Angular y tecnologías web.
-- Interés en seguridad, DevOps y arquitecturas escalables.
+- Desarrollo Web con ASP.NET, MVC y arquitectura en capas / n-capas.
+- Frontend dinámico con Angular.
+- Buenas prácticas de desarrollo y código limpio.
 
 ## 📚 Actualmente aprendiendo
 
-- Integración de APIs REST con .NET
-- Patrón MVC avanzado
-- Mejores prácticas en frontend y backend
+- Integración de APIs REST
+- Mejores prácticas de seguridad en .NET
+- Performance en frontend
 
 ## 📫 Contáctame
 
@@ -42,9 +46,9 @@
 ## 📈 Mis estadísticas en GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=steeven-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pive51&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-<p align="center">Gracias por visitar mi perfil 😄</p>
+<p align="center">Gracias por visitar mi perfil 🙌 ¡Vamos por más!</p>

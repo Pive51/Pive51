@@ -5,7 +5,7 @@
 
 <!-- Foto de perfil (puedes reemplazar con la tuya si subes una a GitHub) -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150" alt="Steeven Avatar" />
+  <img src="https://github.com/Pive51/Pive51/blob/main/Logos.png?raw=true" width="150" alt="Steeven Avatar" />
 </p>
 
 <h1 align="center">👨‍💻 Steeven David Arevalo Llerena</h1>
